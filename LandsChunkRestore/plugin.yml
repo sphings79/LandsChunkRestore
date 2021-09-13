@@ -1,0 +1,8 @@
+name: LandsChunkRestore
+version: 1.0
+main: de.sphings.landschunkrestore.LandsChunkRestore
+author: sphings
+depend: [FastAsyncWorldEdit, Lands]
+description: This plugin is an extension for the [Lands] plugin. It restores the unclaimed/deleted chunks.
+api-version: 1.17
+website: www.spigotmc.org
